@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-warehouse-pick-path-tsp-travel-distance-optimizer-skill",
+  "version": "1.0.0",
+  "title": "Warehouse Pick-Path TSP Distance & Labor Optimizer Skill",
+  "category": "Agentic Commerce (Fulfillment & Warehousing)",
+  "description": "Models warehouse 2D coordinate layouts, solves picker Traveling Salesperson Problem (TSP) using 2-opt search heuristic, and minimizes dead-heading travel distance.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "optimize_warehouse_pick_path"
+  ],
+  "dependencies": []
+}
